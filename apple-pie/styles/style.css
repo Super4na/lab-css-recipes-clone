@@ -1,0 +1,85 @@
+body {
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+
+.header {
+    background-image: url("../images/apple-pie.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:600px;
+    width: 1400px;
+    
+    
+    
+}
+#line1{
+width : 1100px;
+}
+#line2{
+width: 1100px;
+}
+#cooking {
+    height:60px;
+    margin-left: 40%;;
+    margin-right:40%;
+}
+
+#this {
+    width: 800px;
+    
+}
+#inst{
+
+}
+
+#recipe {
+    height:50px;
+    margin-left: 35%;;
+    margin-right:30%;
+}
+h1 {
+    
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.mid {
+    align-self: center;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.intro {
+    width: 800px;
+    text-align:justify;
+    align-self: center;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+.end{
+    align-self: center;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+h3 {
+    
+    font-size: 25px;
+    text-align:left;
+  
+}
+
+#lista {
+    list-style-type: none ;
+}
+
